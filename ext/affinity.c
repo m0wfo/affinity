@@ -1,8 +1,6 @@
 #include <libmemcached/memcached.h>
 #include <mysql.h>
 #include <ruby/ruby.h>
-// #include <svm.h>
-// #include <gsl/gsl_statistics.h>
 #include <math.h>
 
 MYSQL mysql;
