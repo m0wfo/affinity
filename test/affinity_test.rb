@@ -10,7 +10,7 @@ class AffinityTest < Test::Unit::TestCase
   
   def test_find_pearson
     a = Affinity.new(1)
-    p a.pearson(3, [1,2,3], [1,2,3])
+    # p a.pearson(3, [1,2,3], [1,2,3])
   end
   
   def test_something
